@@ -1,7 +1,7 @@
 #!/bin/bash
 # for macOS only
 # save then run
-# chmod +x install-update-atomsh
+# chmod +x install-update-atom.sh
 
 COMMAND=$1
 
